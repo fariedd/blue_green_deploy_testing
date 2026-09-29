@@ -1,6 +1,10 @@
+
+// hte rest of the file, whatever that means
 {
-  "name": "blue_green_deploy_testing",
   "version": "0.1.0",
+  "homepage": ".",
+  "name": "blue_green_deploy_testing",
+  
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
